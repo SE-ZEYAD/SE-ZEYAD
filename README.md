@@ -24,7 +24,7 @@ Software Engineer with hands-on experience in software development and engineeri
 ### 📱 Connect with Me
 - **LinkedIn:** [@Zeyad Mohamed](https://www.linkedin.com/in/zeyad-moohamed/)
 - **GitHub:** [@SE-ZEYAD](https://github.com/SE-ZEYAD)
-- **Gmail:** [Zeyad](zeyadana2020@gmail.com)
+- **Gmail:** [zeyadana2020@gmail.com](zeyadana2020@gmail.com)
 ---
 
 Thank you for visiting my GitHub! Feel free to explore my projects or reach out for collaboration on innovative ventures.
