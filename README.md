@@ -1,3 +1,9 @@
+<img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BobDgwbWRtbG9raTNrOXdnbzFjc2FjemJkZzVobGxoZmJ2dzk0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" alt="banner">
+<div style="text-align: center;"> 
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SE-ZEYAD&data=followers,repositories,stars,commits&theme=dark)](https://github.com/SE-ZEYAD/) 
+</div>
+
 # Hi, I'm Zeyad Mohamed 👋
 
 Software Engineer with hands-on experience in software development and engineering. Completed two internships at CodeAlpha and TechnoHacks, where I contributed to various projects, enhancing my technical skills and practical knowledge in programming, problem-solving, and collaboration within professional environments. Passionate about continuous learning and creating innovative solutions in the tech industry.
@@ -21,10 +27,25 @@ Software Engineer with hands-on experience in software development and engineeri
 
 #
 
+<table>
+    <tr>
+        <th>
+            <p><img align="center" src="https://readmestats.999857.xyz/api?username=SE-ZEYAD&show_icons=true&locale=en&theme=dark" alt="Zeyad Mohamed"/></p>
+        </th>
+        <th>
+            <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SE-ZEYAD&theme=dark" alt="Zeyad Mohamed" style="padding-right: 30px;"/></p>
+        </th>
+    </tr>
+</table>
+
+![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=SE-ZEYAD&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
+<br>
+
+
 ### 📱 Connect with Me
 - **LinkedIn:** [@Zeyad Mohamed](https://www.linkedin.com/in/zeyad-moohamed/)
 - **GitHub:** [@SE-ZEYAD](https://github.com/SE-ZEYAD)
 - **Gmail:** [zeyadana2020@gmail.com](zeyadana2020@gmail.com)
 ---
+<p align="center">⭐️ Thank you for visiting my GitHub! Feel free to explore my projects or reach out for collaboration on innovative ventures ⭐️</p>
 
-Thank you for visiting my GitHub! Feel free to explore my projects or reach out for collaboration on innovative ventures.
