@@ -1,6 +1,4 @@
-<img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BobDgwbWRtbG9raTNrOXdnbzFjc2FjemJkZzVobGxoZmJ2dzk0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" alt="banner">
 <div style="text-align: center;"> 
-
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SE-ZEYAD&data=followers,repositories,stars,commits&theme=dark)](https://github.com/SE-ZEYAD/) 
 </div>
 
