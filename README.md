@@ -6,7 +6,7 @@
 
 # Hi, I'm Zeyad Mohamed 👋
 
-Software Engineer with hands-on experience in software development and engineering. Completed two internships at CodeAlpha and TechnoHacks, where I contributed to various projects, enhancing my technical skills and practical knowledge in programming, problem-solving, and collaboration within professional environments. Passionate about continuous learning and creating innovative solutions in the tech industry.
+Software Engineer with hands-on experience in software development and engineering. Completed various projects, enhancing my technical skills and practical knowledge in programming, problem-solving, and collaboration within professional environments. Passionate about continuous learning and creating innovative solutions in the tech industry.
 
 ### 🧰 Languages and Tools
 
